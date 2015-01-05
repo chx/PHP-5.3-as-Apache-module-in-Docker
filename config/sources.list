@@ -1,0 +1,6 @@
+deb     http://mirror.hetzner.de/debian/packages wheezy main
+deb     http://mirror.hetzner.de/debian/security wheezy/updates main
+deb http://ftp.debian.org/debian/ squeeze main
+deb http://security.debian.org/ squeeze/updates main
+
+
